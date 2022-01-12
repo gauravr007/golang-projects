@@ -1,4 +1,4 @@
-Gaurav's Golang projects to learn golang
+# Gaurav's Golang projects
 
 - Basic lang exercises
 - More complex lang concepts exercises
