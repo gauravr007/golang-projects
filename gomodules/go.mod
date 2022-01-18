@@ -1,4 +1,4 @@
-module github.com/gauravr007/golang-projects
+module github.com/gauravr007/golang-projects/gomodules
 
 go 1.17
 

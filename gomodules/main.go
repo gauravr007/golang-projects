@@ -1,4 +1,4 @@
-package gomodules_exercise
+package main
 
 import (
 	"fmt"
